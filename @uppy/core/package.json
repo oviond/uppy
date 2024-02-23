@@ -1,0 +1,65 @@
+{
+  "_from": "@uppy/core@^3.8.0",
+  "_id": "@uppy/core@3.9.2",
+  "_inBundle": false,
+  "_integrity": "sha512-GvVKLUsb0o9vOdXkk+pPW3OtClsmGAlZdUZHFAHtG5ikGZ9hMBmxUL6auWMy5cK7w3zhUapNgAGYuppI4Furfg==",
+  "_location": "/@uppy/core",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/core@^3.8.0",
+    "name": "@uppy/core",
+    "escapedName": "@uppy%2fcore",
+    "scope": "@uppy",
+    "rawSpec": "^3.8.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.8.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/core/-/core-3.9.2.tgz",
+  "_shasum": "ee42041da977333ab1f480d6e19985df2ed88cd8",
+  "_spec": "@uppy/core@^3.8.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@transloadit/prettier-bytes": "^0.3.0",
+    "@uppy/store-default": "^3.2.2",
+    "@uppy/utils": "^5.7.3",
+    "lodash": "^4.17.21",
+    "mime-match": "^1.0.2",
+    "namespace-emitter": "^2.0.1",
+    "nanoid": "^4.0.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Core module for the extensible JavaScript file upload widget with support for drag&drop, resumable uploads, previews, restrictions, file processing/encoding, remote providers like Instagram, Dropbox, Google Drive, S3 and more :dog:",
+  "devDependencies": {
+    "vitest": "^1.2.1"
+  },
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/core",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "sideEffects": [
+    "*.css"
+  ],
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.9.2"
+}

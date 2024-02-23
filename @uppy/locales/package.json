@@ -1,0 +1,49 @@
+{
+  "_from": "@uppy/locales@^3.5.2",
+  "_id": "@uppy/locales@3.5.2",
+  "_inBundle": false,
+  "_integrity": "sha512-YBOC5ynbgv0OsS++h5mLGGYnEHpTnXmTXLL+IzZdwo5phezCn28rCtkipyZjV3x2U02u3vt6RavsRmPNNZCGxg==",
+  "_location": "/@uppy/locales",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/locales@^3.5.2",
+    "name": "@uppy/locales",
+    "escapedName": "@uppy%2flocales",
+    "scope": "@uppy",
+    "rawSpec": "^3.5.2",
+    "saveSpec": null,
+    "fetchSpec": "^3.5.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/locales/-/locales-3.5.2.tgz",
+  "_shasum": "fa14c92f5edf3d73913323048dbac6fa370ffbc0",
+  "_spec": "@uppy/locales@^3.5.2",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/utils": "^5.7.2"
+  },
+  "deprecated": false,
+  "description": "Uppy language packs",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "uppy",
+    "uppy-plugin",
+    "language packs"
+  ],
+  "license": "MIT",
+  "name": "@uppy/locales",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "version": "3.5.2"
+}

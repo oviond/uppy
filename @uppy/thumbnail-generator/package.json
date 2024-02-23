@@ -1,0 +1,62 @@
+{
+  "_from": "@uppy/thumbnail-generator@^3.0.8",
+  "_id": "@uppy/thumbnail-generator@3.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-bENYEoPqahq/gX8Q6zAn//kQEDSZub8XeuD0i8ovm2xRzg2Ww4PggBemfdZHq6WbBSDhRseUrmXBLPlQN4wo0g==",
+  "_location": "/@uppy/thumbnail-generator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/thumbnail-generator@^3.0.8",
+    "name": "@uppy/thumbnail-generator",
+    "escapedName": "@uppy%2fthumbnail-generator",
+    "scope": "@uppy",
+    "rawSpec": "^3.0.8",
+    "saveSpec": null,
+    "fetchSpec": "^3.0.8"
+  },
+  "_requiredBy": [
+    "/@uppy/dashboard"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/thumbnail-generator/-/thumbnail-generator-3.0.8.tgz",
+  "_shasum": "a9178369ce4a767e3fae129c154d27395089f2b4",
+  "_spec": "@uppy/thumbnail-generator@^3.0.8",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/dashboard",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/utils": "^5.7.2",
+    "exifr": "^7.0.0"
+  },
+  "deprecated": false,
+  "description": "Uppy plugin that generates small previews of images to show on your upload UI.",
+  "devDependencies": {
+    "namespace-emitter": "2.0.1",
+    "vitest": "^1.2.1"
+  },
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "thumbnail",
+    "preview",
+    "resize"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/thumbnail-generator",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.0.8"
+}

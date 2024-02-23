@@ -1,0 +1,61 @@
+{
+  "_from": "@uppy/instagram@^3.2.0",
+  "_id": "@uppy/instagram@3.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-KmSi/Frn1WNHTu6zQA0GwAJuy4K8JopuYg16jjy02imq8H5szG/dTC2lr6wxsfhXGzOGvX0/x9oLUFC6ipD9dg==",
+  "_location": "/@uppy/instagram",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/instagram@^3.2.0",
+    "name": "@uppy/instagram",
+    "escapedName": "@uppy%2finstagram",
+    "scope": "@uppy",
+    "rawSpec": "^3.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.2.0"
+  },
+  "_requiredBy": [
+    "/@uppy/remote-sources"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/instagram/-/instagram-3.2.0.tgz",
+  "_shasum": "f5a48c4bf94430881e285514aa8c6d578b9087d7",
+  "_spec": "@uppy/instagram@^3.2.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/remote-sources",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/companion-client": "^3.7.0",
+    "@uppy/provider-views": "^3.8.0",
+    "@uppy/utils": "^5.7.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Import photos and videos from Instagram, into Uppy.",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "instagram",
+    "provider",
+    "photos",
+    "videos"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/instagram",
+  "peerDependencies": {
+    "@uppy/core": "^3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.2.0"
+}

@@ -1,0 +1,60 @@
+{
+  "_from": "@uppy/url@^3.5.0",
+  "_id": "@uppy/url@3.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-uNdfe0OLAtkrDlL9fwLN+zo/sQl01StEsaytT/JrhK4Hdw/15KYiTmmMbDGBdSSpDoKC54wuebSpR+c8KKC2EA==",
+  "_location": "/@uppy/url",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/url@^3.5.0",
+    "name": "@uppy/url",
+    "escapedName": "@uppy%2furl",
+    "scope": "@uppy",
+    "rawSpec": "^3.5.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.5.0"
+  },
+  "_requiredBy": [
+    "/@uppy/remote-sources"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/url/-/url-3.5.0.tgz",
+  "_shasum": "264f4b4303ffbf85cc0c5c0a70b861d77a278167",
+  "_spec": "@uppy/url@^3.5.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/remote-sources",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/companion-client": "^3.7.0",
+    "@uppy/utils": "^5.7.0",
+    "nanoid": "^4.0.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "The Url plugin lets users import files from the Internet. Paste any URL and it’ll be added!",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "url",
+    "import from url",
+    "uppy",
+    "uppy-plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/url",
+  "peerDependencies": {
+    "@uppy/core": "^3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.5.0"
+}

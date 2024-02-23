@@ -1,0 +1,58 @@
+{
+  "_from": "@uppy/file-input@^3.0.4",
+  "_id": "@uppy/file-input@3.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-D7Nw9GgpABYTcC8SZluDyxd+ppe7+gJejNbPZqMpQyW1S/ME3me55dkDQaVWn8yrgv7347zO2ciue9Rfmko+rQ==",
+  "_location": "/@uppy/file-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/file-input@^3.0.4",
+    "name": "@uppy/file-input",
+    "escapedName": "@uppy%2ffile-input",
+    "scope": "@uppy",
+    "rawSpec": "^3.0.4",
+    "saveSpec": null,
+    "fetchSpec": "^3.0.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/file-input/-/file-input-3.0.4.tgz",
+  "_shasum": "b47e6e6f30491c2e20ac03378dc136f49838e663",
+  "_spec": "@uppy/file-input@^3.0.4",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/utils": "^5.5.2",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Simple UI of a file input button that works with Uppy right out of the box",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "upload",
+    "uppy",
+    "uppy-plugin",
+    "file-input"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/file-input",
+  "peerDependencies": {
+    "@uppy/core": "^3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.0.4"
+}

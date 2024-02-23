@@ -1,0 +1,59 @@
+{
+  "_from": "@uppy/google-drive@^3.4.0",
+  "_id": "@uppy/google-drive@3.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-QqWNaIi9VYap7hjFA34f0p47/dKylOyzwkF1nKl5REtLG5t0e99gOfQpTYEc7cUBvEqiOB3EipXmrVyDvBNqMA==",
+  "_location": "/@uppy/google-drive",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/google-drive@^3.4.0",
+    "name": "@uppy/google-drive",
+    "escapedName": "@uppy%2fgoogle-drive",
+    "scope": "@uppy",
+    "rawSpec": "^3.4.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.4.0"
+  },
+  "_requiredBy": [
+    "/@uppy/remote-sources"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/google-drive/-/google-drive-3.4.0.tgz",
+  "_shasum": "00f930a4e252e2a2efed96b4e14b07bce7224a2b",
+  "_spec": "@uppy/google-drive@^3.4.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/remote-sources",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/companion-client": "^3.7.0",
+    "@uppy/provider-views": "^3.8.0",
+    "@uppy/utils": "^5.7.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "The Google Drive plugin for Uppy lets users import files from their Google Drive account",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "google drive",
+    "cloud storage",
+    "uppy",
+    "uppy-plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/google-drive",
+  "peerDependencies": {
+    "@uppy/core": "^3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.4.0"
+}

@@ -1,0 +1,59 @@
+{
+  "_from": "@uppy/informer@^3.0.4",
+  "_id": "@uppy/informer@3.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-gzocdxn8qAFsW2EryehwjghladaBgv6Isjte53FTBV7o/vjaHPP6huKGbYpljyuQi8i9V+KrmvNGslofssgJ4g==",
+  "_location": "/@uppy/informer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/informer@^3.0.4",
+    "name": "@uppy/informer",
+    "escapedName": "@uppy%2finformer",
+    "scope": "@uppy",
+    "rawSpec": "^3.0.4",
+    "saveSpec": null,
+    "fetchSpec": "^3.0.4"
+  },
+  "_requiredBy": [
+    "/@uppy/dashboard"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/informer/-/informer-3.0.4.tgz",
+  "_shasum": "dc8cfd870135caead5975b3357c043cc442732ab",
+  "_spec": "@uppy/informer@^3.0.4",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/dashboard",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/utils": "^5.5.2",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "A notification and error pop-up bar for Uppy.",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "notification",
+    "bar",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/informer",
+  "peerDependencies": {
+    "@uppy/core": "^3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.0.4"
+}

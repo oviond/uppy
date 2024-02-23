@@ -1,0 +1,58 @@
+{
+  "_from": "@uppy/onedrive@^3.2.0",
+  "_id": "@uppy/onedrive@3.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-VsAcWUAi6T+V0KxB5PyxTIT3c/bYGlAWWIDZTD+a4zkmgf7wDMozd5ww8NTMUHBjssrv+TVLVXgc06e0b++0gA==",
+  "_location": "/@uppy/onedrive",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/onedrive@^3.2.0",
+    "name": "@uppy/onedrive",
+    "escapedName": "@uppy%2fonedrive",
+    "scope": "@uppy",
+    "rawSpec": "^3.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.2.0"
+  },
+  "_requiredBy": [
+    "/@uppy/remote-sources"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/onedrive/-/onedrive-3.2.0.tgz",
+  "_shasum": "52639303fab1ae9e6ee09bc50ea2e7f1b775891a",
+  "_spec": "@uppy/onedrive@^3.2.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/remote-sources",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/companion-client": "^3.7.0",
+    "@uppy/provider-views": "^3.8.0",
+    "@uppy/utils": "^5.7.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Import files from OneDrive, into Uppy.",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "onedrive"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/onedrive",
+  "peerDependencies": {
+    "@uppy/core": "^3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.2.0"
+}

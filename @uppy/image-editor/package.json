@@ -1,0 +1,66 @@
+{
+  "_from": "@uppy/image-editor@^2.4.0",
+  "_id": "@uppy/image-editor@2.4.3",
+  "_inBundle": false,
+  "_integrity": "sha512-QqrAHXMJfMIxnhs2wgeo7pLw2ekRVCF6xjLi31ppm9Y4K95Zp4nIBkrROc2jjNOGLQDpJ4il00Dl5TgJVTeSuA==",
+  "_location": "/@uppy/image-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/image-editor@^2.4.0",
+    "name": "@uppy/image-editor",
+    "escapedName": "@uppy%2fimage-editor",
+    "scope": "@uppy",
+    "rawSpec": "^2.4.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.4.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/image-editor/-/image-editor-2.4.3.tgz",
+  "_shasum": "39a2e87cf695ed24f3a6f663677034f31e528975",
+  "_spec": "@uppy/image-editor@^2.4.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/utils": "^5.7.3",
+    "cropperjs": "1.5.7",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Image editor and cropping UI",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "upload",
+    "uppy",
+    "uppy-plugin",
+    "image editor",
+    "cropper",
+    "crop",
+    "rotate",
+    "resize"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/image-editor",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "2.4.3"
+}

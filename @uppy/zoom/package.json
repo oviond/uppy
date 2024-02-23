@@ -1,0 +1,61 @@
+{
+  "_from": "@uppy/zoom@^2.2.0",
+  "_id": "@uppy/zoom@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-+UTfuFicCFaBsp7SiJVJ7O+YJSxz1g83AJ/ZL6zQAq2HWw/jT0GF/Ttb+f40nauJ6vMLrIbucOJZEWSj42Im8Q==",
+  "_location": "/@uppy/zoom",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/zoom@^2.2.0",
+    "name": "@uppy/zoom",
+    "escapedName": "@uppy%2fzoom",
+    "scope": "@uppy",
+    "rawSpec": "^2.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.2.0"
+  },
+  "_requiredBy": [
+    "/@uppy/remote-sources"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/zoom/-/zoom-2.2.0.tgz",
+  "_shasum": "5e05f2f9998d899d44299f8e049c2aab8ec4f9a8",
+  "_spec": "@uppy/zoom@^2.2.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/remote-sources",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/companion-client": "^3.7.0",
+    "@uppy/provider-views": "^3.8.0",
+    "@uppy/utils": "^5.7.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Import files from zoom, into Uppy.",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "zoom"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/zoom",
+  "peerDependencies": {
+    "@uppy/core": "^3.8.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "2.2.0"
+}

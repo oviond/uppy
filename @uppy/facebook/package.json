@@ -1,0 +1,58 @@
+{
+  "_from": "@uppy/facebook@^3.2.0",
+  "_id": "@uppy/facebook@3.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-G2VWV/IrFV1M5pAD3o6tqo3hmtkbCgLbIUxOtRzvcPfKFDLAkjURQPUbsr0sgSjbot7FgAYWRwb5lmbLh5Szjg==",
+  "_location": "/@uppy/facebook",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/facebook@^3.2.0",
+    "name": "@uppy/facebook",
+    "escapedName": "@uppy%2ffacebook",
+    "scope": "@uppy",
+    "rawSpec": "^3.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.2.0"
+  },
+  "_requiredBy": [
+    "/@uppy/remote-sources"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/facebook/-/facebook-3.2.0.tgz",
+  "_shasum": "7fc9f59e26ae938b7a295bd0265fc9b44fd67073",
+  "_spec": "@uppy/facebook@^3.2.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/remote-sources",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/companion-client": "^3.7.0",
+    "@uppy/provider-views": "^3.8.0",
+    "@uppy/utils": "^5.7.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Import files from Facebook, into Uppy.",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "facebook"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/facebook",
+  "peerDependencies": {
+    "@uppy/core": "^3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.2.0"
+}

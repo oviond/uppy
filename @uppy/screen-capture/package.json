@@ -1,0 +1,63 @@
+{
+  "_from": "@uppy/screen-capture@^3.1.3",
+  "_id": "@uppy/screen-capture@3.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-vCIlTuATxK3U4z0ZUe1qXqmYFdzLabdEUi0voiIM7llyJ1M59Q3wh1C9a6cDxy1SyxK+fCPB6heHwzscKl9g2A==",
+  "_location": "/@uppy/screen-capture",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/screen-capture@^3.1.3",
+    "name": "@uppy/screen-capture",
+    "escapedName": "@uppy%2fscreen-capture",
+    "scope": "@uppy",
+    "rawSpec": "^3.1.3",
+    "saveSpec": null,
+    "fetchSpec": "^3.1.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/screen-capture/-/screen-capture-3.1.3.tgz",
+  "_shasum": "b4063ca941b336b897fc6f1c3e7f871ac22b82c0",
+  "_spec": "@uppy/screen-capture@^3.1.3",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/utils": "^5.5.2",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Uppy plugin that captures video from display or application.",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "screen capture",
+    "video",
+    "record",
+    "mediarecorder"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/screen-capture",
+  "peerDependencies": {
+    "@uppy/core": "^3.6.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.1.3"
+}

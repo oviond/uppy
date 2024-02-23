@@ -1,0 +1,65 @@
+{
+  "_from": "@uppy/aws-s3@^3.6.0",
+  "_id": "@uppy/aws-s3@3.6.2",
+  "_inBundle": false,
+  "_integrity": "sha512-pXXSfJbPLR9tmmLFckKU3lyp7Zx4AVvamH/Y5MU2WHKj8TQMrGeM0/M/nXn8SIa7roYEaskY6dVYT/DcHLdO9A==",
+  "_location": "/@uppy/aws-s3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/aws-s3@^3.6.0",
+    "name": "@uppy/aws-s3",
+    "escapedName": "@uppy%2faws-s3",
+    "scope": "@uppy",
+    "rawSpec": "^3.6.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.6.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/aws-s3/-/aws-s3-3.6.2.tgz",
+  "_shasum": "a991b2aeb24f53db422d1e8b71d8ac8e61360301",
+  "_spec": "@uppy/aws-s3@^3.6.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/aws-s3-multipart": "^3.10.2",
+    "@uppy/companion-client": "^3.7.2",
+    "@uppy/utils": "^5.7.2",
+    "@uppy/xhr-upload": "^3.6.2",
+    "nanoid": "^4.0.0"
+  },
+  "deprecated": false,
+  "description": "Upload to Amazon S3 with Uppy",
+  "devDependencies": {
+    "vitest": "^1.2.1",
+    "whatwg-fetch": "3.6.2"
+  },
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "aws s3",
+    "amazon s3",
+    "s3",
+    "uppy",
+    "uppy-plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/aws-s3",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.6.2"
+}

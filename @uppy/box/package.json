@@ -1,0 +1,61 @@
+{
+  "_from": "@uppy/box@^2.2.0",
+  "_id": "@uppy/box@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-n59tcqTzYLgYMbZ3U7bUq9VUIMqifrLPu/yJOfx875jg+tjwsAVNVKN1SIlpcr2DArcd7Q1mhlPPshUWJpH47A==",
+  "_location": "/@uppy/box",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/box@^2.2.0",
+    "name": "@uppy/box",
+    "escapedName": "@uppy%2fbox",
+    "scope": "@uppy",
+    "rawSpec": "^2.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.2.0"
+  },
+  "_requiredBy": [
+    "/@uppy/remote-sources"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/box/-/box-2.2.0.tgz",
+  "_shasum": "44c13627badb6835b6748e8c046d0ea57275275b",
+  "_spec": "@uppy/box@^2.2.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/remote-sources",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/companion-client": "^3.7.0",
+    "@uppy/provider-views": "^3.8.0",
+    "@uppy/utils": "^5.7.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Import files from Box, into Uppy.",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "box"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/box",
+  "peerDependencies": {
+    "@uppy/core": "^3.8.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "2.2.0"
+}

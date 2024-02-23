@@ -1,0 +1,67 @@
+{
+  "_from": "@uppy/compressor@^1.0.5",
+  "_id": "@uppy/compressor@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-tqe8CxGrm0VNO3u1xrxfVYUpep7vJUoC5QJD/tOmzfYtuTQRFg63GFpTOrL7CupAY4zg3Dh244Gr5Ek2JjyaXQ==",
+  "_location": "/@uppy/compressor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/compressor@^1.0.5",
+    "name": "@uppy/compressor",
+    "escapedName": "@uppy%2fcompressor",
+    "scope": "@uppy",
+    "rawSpec": "^1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/compressor/-/compressor-1.1.1.tgz",
+  "_shasum": "fd8a3970dd55b810c87fc1eabb4f34a1e2e1bb9d",
+  "_spec": "@uppy/compressor@^1.0.5",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@transloadit/prettier-bytes": "^0.3.0",
+    "@uppy/utils": "^5.7.2",
+    "compressorjs": "^1.2.1",
+    "preact": "^10.5.13",
+    "promise-queue": "^2.2.5"
+  },
+  "deprecated": false,
+  "description": "Uppy plugin that compresses images before upload, saving up to 60% in size",
+  "devDependencies": {
+    "vitest": "^1.2.1"
+  },
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "compress",
+    "image compression"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/compressor",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "1.1.1"
+}

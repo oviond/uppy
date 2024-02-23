@@ -1,0 +1,58 @@
+{
+  "_from": "@uppy/dropbox@^3.2.0",
+  "_id": "@uppy/dropbox@3.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-gJ3516kmG3Ogg92GyevKh26W4ByNzTEEZsf+vQe/InaPsdxZcuJKq7vRlGn9z6xMu5gisSX32z1YzGgjSNAtFw==",
+  "_location": "/@uppy/dropbox",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/dropbox@^3.2.0",
+    "name": "@uppy/dropbox",
+    "escapedName": "@uppy%2fdropbox",
+    "scope": "@uppy",
+    "rawSpec": "^3.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.2.0"
+  },
+  "_requiredBy": [
+    "/@uppy/remote-sources"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/dropbox/-/dropbox-3.2.0.tgz",
+  "_shasum": "34268c8b85d77272bfc60d21f7e489847eb50c90",
+  "_spec": "@uppy/dropbox@^3.2.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/remote-sources",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/companion-client": "^3.7.0",
+    "@uppy/provider-views": "^3.8.0",
+    "@uppy/utils": "^5.7.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Import files from Dropbox, into Uppy.",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "dropbox"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/dropbox",
+  "peerDependencies": {
+    "@uppy/core": "^3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.2.0"
+}

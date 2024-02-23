@@ -1,0 +1,66 @@
+{
+  "_from": "@uppy/webcam@^3.3.4",
+  "_id": "@uppy/webcam@3.3.6",
+  "_inBundle": false,
+  "_integrity": "sha512-MocyLnDPoSKMY74vXl5YKTdto05kveUmTEP4eW2s2K2jwSlLTBvMEvkVKdAicMVn0hH/uBQmaHAEhqZZWskLYQ==",
+  "_location": "/@uppy/webcam",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/webcam@^3.3.4",
+    "name": "@uppy/webcam",
+    "escapedName": "@uppy%2fwebcam",
+    "scope": "@uppy",
+    "rawSpec": "^3.3.4",
+    "saveSpec": null,
+    "fetchSpec": "^3.3.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/webcam/-/webcam-3.3.6.tgz",
+  "_shasum": "60107c75840f7544dfa9ad7a3f7a415430916309",
+  "_spec": "@uppy/webcam@^3.3.4",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/utils": "^5.7.2",
+    "is-mobile": "^3.1.1",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Uppy plugin that takes photos or records videos using the device's camera.",
+  "devDependencies": {
+    "vitest": "^1.2.1"
+  },
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "webcam",
+    "picture",
+    "photo",
+    "video",
+    "record",
+    "mediarecorder"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/webcam",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.3.6"
+}

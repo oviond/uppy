@@ -1,0 +1,77 @@
+{
+  "_from": "@uppy/dashboard@^3.7.1",
+  "_id": "@uppy/dashboard@3.7.4",
+  "_inBundle": false,
+  "_integrity": "sha512-lYK79CrNrNAOfRDh08VUhX47n6AIRbn+uLwrb93bQHuhOdr85WvNBxImsq77odc4Vjl2+b4Ca6CvzDHfzOXNFQ==",
+  "_location": "/@uppy/dashboard",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/dashboard@^3.7.1",
+    "name": "@uppy/dashboard",
+    "escapedName": "@uppy%2fdashboard",
+    "scope": "@uppy",
+    "rawSpec": "^3.7.1",
+    "saveSpec": null,
+    "fetchSpec": "^3.7.1"
+  },
+  "_requiredBy": [
+    "/",
+    "/@uppy/remote-sources"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/dashboard/-/dashboard-3.7.4.tgz",
+  "_shasum": "ea55f109dd9ace3094dc580a31101cd4129615f7",
+  "_spec": "@uppy/dashboard@^3.7.1",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@transloadit/prettier-bytes": "^0.3.0",
+    "@uppy/informer": "^3.0.4",
+    "@uppy/provider-views": "^3.9.1",
+    "@uppy/status-bar": "^3.2.8",
+    "@uppy/thumbnail-generator": "^3.0.8",
+    "@uppy/utils": "^5.7.3",
+    "classnames": "^2.2.6",
+    "is-shallow-equal": "^1.0.1",
+    "lodash": "^4.17.21",
+    "memoize-one": "^6.0.0",
+    "nanoid": "^4.0.0",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "Universal UI plugin for Uppy.",
+  "devDependencies": {
+    "@uppy/google-drive": "^3.4.0",
+    "@uppy/status-bar": "^3.2.8",
+    "@uppy/url": "^3.5.0",
+    "@uppy/webcam": "^3.3.6",
+    "resize-observer-polyfill": "^1.5.0",
+    "vitest": "^1.2.1"
+  },
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "dashboard",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/dashboard",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.7.4"
+}

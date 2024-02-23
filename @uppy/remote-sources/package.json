@@ -1,0 +1,77 @@
+{
+  "_from": "@uppy/remote-sources@^1.1.0",
+  "_id": "@uppy/remote-sources@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-le92tE2xJc7LUNyRH/Fv5zADyanv+v8ym2rjPyXQnfU2iBxsvHjnpi5ykl1OnnGBxfmstST5upLIzfxkFWo+iA==",
+  "_location": "/@uppy/remote-sources",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/remote-sources@^1.1.0",
+    "name": "@uppy/remote-sources",
+    "escapedName": "@uppy%2fremote-sources",
+    "scope": "@uppy",
+    "rawSpec": "^1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/remote-sources/-/remote-sources-1.1.2.tgz",
+  "_shasum": "67af36fe8670ed4592290aee62de2a11d5c04378",
+  "_spec": "@uppy/remote-sources@^1.1.0",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/box": "^2.2.0",
+    "@uppy/dashboard": "^3.7.3",
+    "@uppy/dropbox": "^3.2.0",
+    "@uppy/facebook": "^3.2.0",
+    "@uppy/google-drive": "^3.4.0",
+    "@uppy/instagram": "^3.2.0",
+    "@uppy/onedrive": "^3.2.0",
+    "@uppy/unsplash": "^3.2.3",
+    "@uppy/url": "^3.5.0",
+    "@uppy/zoom": "^2.2.0"
+  },
+  "deprecated": false,
+  "description": "Uppy plugin that includes all remote sources that Uppy+Companion offer, like Instagram, Google Drive, Dropox, Box, Unsplash, Url etc",
+  "devDependencies": {
+    "resize-observer-polyfill": "^1.5.1",
+    "vitest": "^1.2.1"
+  },
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "instagram",
+    "google-drive",
+    "facebook",
+    "dropbox",
+    "onedrive",
+    "zoom",
+    "unsplash",
+    "box",
+    "url"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/remote-sources",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "1.1.2"
+}

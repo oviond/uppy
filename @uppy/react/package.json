@@ -1,0 +1,84 @@
+{
+  "_from": "@uppy/react@^3.2.1",
+  "_id": "@uppy/react@3.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-RNQg4K0o5jgpvEjTgf+e2Gb6GEl9d6b9vScSBINorPQN3UOPVx/k7oZXSmCfikXsTCMST+xJwdCn8muFenynvg==",
+  "_location": "/@uppy/react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/react@^3.2.1",
+    "name": "@uppy/react",
+    "escapedName": "@uppy%2freact",
+    "scope": "@uppy",
+    "rawSpec": "^3.2.1",
+    "saveSpec": null,
+    "fetchSpec": "^3.2.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/react/-/react-3.2.2.tgz",
+  "_shasum": "926d1a815e85c4621ee12b5fa20a799a68527a11",
+  "_spec": "@uppy/react@^3.2.1",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/utils": "^5.7.3",
+    "prop-types": "^15.6.1"
+  },
+  "deprecated": false,
+  "description": "React component wrappers around Uppy's official UI plugins.",
+  "devDependencies": {
+    "@types/react": "^18.0.8",
+    "react": "^18.1.0"
+  },
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "react",
+    "react-components"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/react",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.2",
+    "@uppy/dashboard": "^3.7.4",
+    "@uppy/drag-drop": "^3.0.3",
+    "@uppy/file-input": "^3.0.4",
+    "@uppy/progress-bar": "^3.0.4",
+    "@uppy/status-bar": "^3.2.8",
+    "react": "^16.0.0 || ^17.0.0 || ^18.0.0"
+  },
+  "peerDependenciesMeta": {
+    "@uppy/dashboard": {
+      "optional": true
+    },
+    "@uppy/drag-drop": {
+      "optional": true
+    },
+    "@uppy/file-input": {
+      "optional": true
+    },
+    "@uppy/progress-bar": {
+      "optional": true
+    },
+    "@uppy/status-bar": {
+      "optional": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.2.2"
+}

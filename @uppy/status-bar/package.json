@@ -1,0 +1,64 @@
+{
+  "_from": "@uppy/status-bar@^3.2.8",
+  "_id": "@uppy/status-bar@3.2.8",
+  "_inBundle": false,
+  "_integrity": "sha512-bAAYTVNqFbTPgyHpiYFQOOaAUiN0bxdzD+qtqIlXM1fAp4GHyHBfRdELMWvHtnD75ThRDsqR0m+vUDS/VNZ2XA==",
+  "_location": "/@uppy/status-bar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/status-bar@^3.2.8",
+    "name": "@uppy/status-bar",
+    "escapedName": "@uppy%2fstatus-bar",
+    "scope": "@uppy",
+    "rawSpec": "^3.2.8",
+    "saveSpec": null,
+    "fetchSpec": "^3.2.8"
+  },
+  "_requiredBy": [
+    "/@uppy/dashboard"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/status-bar/-/status-bar-3.2.8.tgz",
+  "_shasum": "a5332a0636545459e9499a2075eab186177de0be",
+  "_spec": "@uppy/status-bar@^3.2.8",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/dashboard",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@transloadit/prettier-bytes": "^0.3.0",
+    "@uppy/utils": "^5.7.3",
+    "classnames": "^2.2.6",
+    "preact": "^10.5.13"
+  },
+  "deprecated": false,
+  "description": "A progress bar for Uppy, with many bells and whistles.",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "progress bar",
+    "status bar",
+    "progress",
+    "upload",
+    "eta",
+    "speed"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/status-bar",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "style": "dist/style.min.css",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.2.8"
+}

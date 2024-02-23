@@ -1,0 +1,72 @@
+{
+  "_from": "@uppy/companion-client@^3.7.2",
+  "_id": "@uppy/companion-client@3.7.3",
+  "_inBundle": false,
+  "_integrity": "sha512-CB+jM60ML8ttSeBPqiA0IZyz2ne7YR4YSE/zPM9+PAHoawpvyJnYIhoA2LV0bpYT7rti8wTR+XoPygGFbDZDIg==",
+  "_location": "/@uppy/companion-client",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@uppy/companion-client@^3.7.2",
+    "name": "@uppy/companion-client",
+    "escapedName": "@uppy%2fcompanion-client",
+    "scope": "@uppy",
+    "rawSpec": "^3.7.2",
+    "saveSpec": null,
+    "fetchSpec": "^3.7.2"
+  },
+  "_requiredBy": [
+    "/@uppy/aws-s3",
+    "/@uppy/aws-s3-multipart",
+    "/@uppy/box",
+    "/@uppy/dropbox",
+    "/@uppy/facebook",
+    "/@uppy/google-drive",
+    "/@uppy/instagram",
+    "/@uppy/onedrive",
+    "/@uppy/unsplash",
+    "/@uppy/url",
+    "/@uppy/xhr-upload",
+    "/@uppy/zoom"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/companion-client/-/companion-client-3.7.3.tgz",
+  "_shasum": "a80c850254b9a0ff9f78cff824479f7af428e880",
+  "_spec": "@uppy/companion-client@^3.7.2",
+  "_where": "/home/brendan/Desktop/app.oviond (copy).com/node_modules/@uppy/aws-s3",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@uppy/utils": "^5.7.3",
+    "namespace-emitter": "^2.0.1",
+    "p-retry": "^6.1.0"
+  },
+  "deprecated": false,
+  "description": "Client library for communication with Companion. Intended for use in Uppy plugins.",
+  "devDependencies": {
+    "vitest": "^1.2.1"
+  },
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "companion",
+    "provider"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/companion-client",
+  "peerDependencies": {
+    "@uppy/core": "^3.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "type": "module",
+  "types": "types/index.d.ts",
+  "version": "3.7.3"
+}
